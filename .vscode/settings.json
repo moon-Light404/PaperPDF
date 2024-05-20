@@ -1,0 +1,5 @@
+{
+    "markdown.preview.breaks":true,
+    "editor.wordWrap": "wordWrapColumn",
+    "editor.wordWrapColumn": 65, // 限制最高寬度只有 100 個字元    
+}
