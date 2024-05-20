@@ -1,2 +1,0 @@
-《Federated Learning With Differential Privacy:Algorithms and Performance Analysis》
-Manipulating the Byzantine: Optimizing Model Poisoning Attacks and Defenses for Federated Learning
